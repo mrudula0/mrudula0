@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, MongoDB, Express, React, NodeJS **
 
-- 📫 How to reach me **mrudula@gmail.com**
+- 📫 How to reach me **mrudula4442@gmail.com**
 
 - ⚡ Fun fact **Hot water will turn into ice faster than cold water**
 
